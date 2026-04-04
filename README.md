@@ -1,0 +1,1 @@
+**meta** is a high-performance, zero-reflection, and fully type-safe metadata container for any project.
