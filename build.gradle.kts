@@ -11,7 +11,7 @@ allprojects {
     apply(plugin = "java")
     apply(plugin = "java-library")
 
-    group = "org.rybar.meta"
+    group = "org.rybar"
 
     repositories {
         mavenCentral()
