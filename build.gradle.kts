@@ -2,7 +2,7 @@ plugins {
     id("java")
     id("java-library")
     id("maven-publish")
-    id("com.diffplug.spotless") version "8.4.0"
+    id("com.diffplug.spotless") version "8.5.1"
 }
 
 version = "0.0.1"
